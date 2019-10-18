@@ -16,7 +16,7 @@ To set up and install this portfolio, download the master branch off github, and
 There are no known bus inside of this code
 
 ## Support and Contact details
-If any issues arise with this webpage, please contact me at jacob.ash1998@gmail.com
+If any issues arise with this webpage, please contact me at _jacob.ash1998@gmail.com_
 
 ## Technology used
 The technology used in this website consists of HTML, and CSS.  With the CSS, there is my own stylesheet, and also Bootstrap.
