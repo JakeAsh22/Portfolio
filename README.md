@@ -7,19 +7,14 @@ This website is my portfolio that links to some of my projects, and gives some b
 _**Jacob Ash**_
 
 ## Description
-This website is my portfolio, it references 3 of the websites I have created: A vacation destination, my favorite band, and a house remodel.  The reference is a hyperlink that takes the user to my github page with those creations as the link.  It also has some background information about myself, like what my interests are and how I chose to enroll in Epicodus.
+This website is my portfolio, it references 3 of the websites I have created: A vacation destination, my favorite band, a house remodel, and a cupcake shop.  The reference is a hyperlink that takes the user to my github page with those creations as the link.  It also has some background information about myself, like what my interests are and how I chose to enroll in Epicodus.
 
 ## Setup and Installation
-To set up and install this portfolio, download the master branch off github, and open the index.HTML file.
+To set up and install this portfolio, download the master branch off github, and then open the index.HTML file.
 
-## Known bugs
-There are no known bus inside of this code
+## GitHub pages
 
-## Support and Contact details
-If any issues arise with this webpage, please contact me at _jacob.ash1998@gmail.com_
-
-## Technology used
-The technology used in this website consists of HTML, and CSS.  With the CSS, there is my own stylesheet, and also Bootstrap.
+The link to the GitHub pages for this website is: https://jakeash22.github.io/Portfolio/
 
 ### License
 MIT License
