@@ -7,7 +7,7 @@ This website is my portfolio that links to some of my projects, and gives some b
 _**Jacob Ash**_
 
 ## Description
-This website is my portfolio, it references 3 of the websites I have created: A vacation destination, my favorite band, a house remodel, and a cupcake shop.  The reference is a hyperlink that takes the user to my github page with those creations as the link.  It also has some background information about myself, like what my interests are and how I chose to enroll in Epicodus.
+This website is my portfolio, and it consists of different tabs: About me, Background in coding, Projects, and Interests.  The Projects section has different GitHub repositories hyperlinked to text that takes the user to the designated project.  This Portfolio demonstrates my understanding in HTML, custom CSS stylesheets, and Bootstrap.
 
 ## Setup and Installation
 To set up and install this portfolio, download the master branch off github, and then open the index.HTML file.
